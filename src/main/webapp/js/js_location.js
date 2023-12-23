@@ -1,0 +1,1 @@
+ document.write("자바스크립트 body에 위치<br>");
